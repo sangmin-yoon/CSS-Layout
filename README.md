@@ -6,8 +6,8 @@
 
 - [x] [https://besthorrorscenes.com/](https://besthorrorscenes.com/)
 - [x] [https://paint-box.com/](https://paint-box.com/)
-- [] [http://10x19.co/](http://10x19.co/)
-- [] [http://www.z-o-o.fr/](http://www.z-o-o.fr/)
+- [x] [http://10x19.co/](http://10x19.co/)
+- [x] [http://www.z-o-o.fr/](http://www.z-o-o.fr/)
 - [] [https://schwartzmedia.com.au/](https://schwartzmedia.com.au/)
 - [] [https://tolv.dk/](https://tolv.dk/)
 - [] [https://rodicdavidson.co.uk/](https://rodicdavidson.co.uk/)
