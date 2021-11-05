@@ -63,9 +63,9 @@ main {
   grid-auto-rows: 45vh;
   article {
     cursor: pointer;
-    height: 90%;
-    // display: grid;
-    // grid-template-rows: 10fr 0.8fr;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 92% 8%;
     img {
       min-width: 100%;
       height: 100%;
